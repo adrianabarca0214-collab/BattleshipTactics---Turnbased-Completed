@@ -1,0 +1,5 @@
+{
+  "name": "BattleshipTactics: Turn-based Completed",
+  "description": "A multiplayer Battleship game, featuring ships with skils offering dynamic and tactical gameplay",
+  "requestFramePermissions": []
+}
